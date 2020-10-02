@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spectrumcinestudio.github.io</id>
-    <title>Spectrum Management Page</title>
-    <updated>2020-10-02T13:17:21.737Z</updated>
+    <title>Management Page</title>
+    <updated>2020-10-02T14:40:32.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://spectrumcinestudio.github.io"/>
     <link rel="self" href="https://spectrumcinestudio.github.io/atom.xml"/>
     <logo>https://spectrumcinestudio.github.io/images/avatar.png</logo>
     <icon>https://spectrumcinestudio.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Spectrum Management Page</rights>
+    <rights>All rights reserved 2020, Management Page</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://spectrumcinestudio.github.io/post/hello-gridea/</id>
