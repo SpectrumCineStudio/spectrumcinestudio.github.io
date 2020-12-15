@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spectrumcinestudio.github.io</id>
     <title>Management Page</title>
-    <updated>2020-12-15T14:22:09.467Z</updated>
+    <updated>2020-12-15T14:25:06.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://spectrumcinestudio.github.io"/>
     <link rel="self" href="https://spectrumcinestudio.github.io/atom.xml"/>
     <logo>https://spectrumcinestudio.github.io/images/avatar.png</logo>
     <icon>https://spectrumcinestudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Management Page</rights>
+    <entry>
+        <title type="html"><![CDATA[盼暖春来backup02]]></title>
+        <id>https://spectrumcinestudio.github.io/post/pan-nuan-chun-lai-backup02/</id>
+        <link href="https://spectrumcinestudio.github.io/post/pan-nuan-chun-lai-backup02/">
+        </link>
+        <updated>2020-12-15T14:23:41.000Z</updated>
+        <content type="html"><![CDATA[<p>asdfasdf</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盼暖春来 Backup01]]></title>
         <id>https://spectrumcinestudio.github.io/post/pan-nuan-chun-lai-backup01/</id>
